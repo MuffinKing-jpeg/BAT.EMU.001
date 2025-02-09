@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C101, C102, C103, C104, C105, C106, C107, C108, C109, C110, C111, C112, C113, C114, C115, C116, C117, C118",CP_Elec_6.3x5.4,18,100u,
+"C119, C120, C121, C122, C123, C124, C125, C126",0805,8,10u,
+J101,JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal,1,Conn_01x03_Pin,
+J102,AMASS_XT30PW-F,1,XT30PW-F,
+"R101, R102",2512,2,300m,
+"R103, R104, R105, R106, R107",0805,5,1M,
+RV101,WXD3-13,1,R_Potentiometer,
+"TP101, TP102, TP103",TestPoint_Pad_D1.5mm,3,TestPoint,
+"TP104, TP105",TestPoint_Bridge_Pitch2.54mm_Drill0.7mm,2,TestPoint,
